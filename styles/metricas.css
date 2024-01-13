@@ -1,0 +1,37 @@
+.metricas {
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+    padding-bottom: 6rem;    
+}
+
+.metrica-numero{
+    color: var(--vermelho);
+    font-size: 3.8rem;
+    font-weight: 600;
+    line-height: 4.5rem;
+    letter-spacing: -1.2px;
+}
+
+.metrica-titulo {
+    color: var(--preto);
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+}
+
+.metrica-descricao {
+    color: var(--cinza-primario);
+    font-weight: 400;
+    line-height: 1.8rem;
+}
+
+.metricas ul {
+    width: 17.5rem;
+    margin: 0.7rem;
+}
+
+.metricas ul li {
+    margin-top: 0.7rem;
+}

@@ -1,6 +1,7 @@
 @import url(reset.css);
 @import url(styles/cabecalho.css);
 @import url(styles/sobre.css);
+@import url(styles/metricas.css);
 
 
 :root {
