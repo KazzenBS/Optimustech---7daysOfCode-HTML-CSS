@@ -1,0 +1,24 @@
+@import url(reset.css);
+@import url(styles/cabecalho.css);
+
+
+:root {
+    --corfundo: #FFFFFF;
+    --preto: #101828;
+    --vermelho: #8E2424;
+    --fundo-card: rgba(204, 39, 39, 0.03);
+    --cinza-primario: #667085;
+    --cinza-secundario: #38434F;
+    --cinza-titulo: #3A404E;
+    --branco-primario: #F9FAFB;
+    font-size: 16px;
+}
+
+header {
+    display: flex;
+    width: 100vw;
+    height: 4.5rem;
+    justify-content: center;
+    align-items: center;
+}
+

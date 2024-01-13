@@ -1,0 +1,49 @@
+.menu-principal {
+    width: 85vw;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+    
+.logo-empresa {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    }
+    
+
+.logo-empresa a {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--cinza-titulo);
+}
+
+.paginas, .menu-botoes{
+    display: flex;
+    gap: 0.7rem;
+    font-weight: 500;
+    align-items: center;
+}
+
+
+
+.paginas a, .botao-entrar {
+    color: var(--cinza-primario);
+}
+
+a {
+    text-decoration: none;
+}
+
+.botao-cadastrar {
+    border-radius: 0.5rem;
+    border: 1px solid var(--vermelho);
+    background: var(--vermelho);
+    color: var(--corfundo);
+    border-radius: 8px;
+    border: 1px solid var(--vermelho);
+    padding: 0.5rem 1rem;
+    
+}
+
