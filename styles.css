@@ -2,10 +2,12 @@
 @import url(styles/cabecalho.css);
 @import url(styles/sobre.css);
 @import url(styles/metricas.css);
+@import url(styles/talentos.css);
 
 
 :root {
     --corfundo: #FFFFFF;
+    --fundo-rosa1: rgba(142, 36, 36, 0.05);
     --preto: #101828;
     --vermelho: #8E2424;
     --fundo-card: rgba(204, 39, 39, 0.03);
