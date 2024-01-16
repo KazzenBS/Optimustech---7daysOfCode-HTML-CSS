@@ -1,0 +1,58 @@
+.vagas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 4rem;
+    gap: 4rem;
+}
+
+.vaga__container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 65vw;
+    gap: 2rem;
+}
+
+.vaga {
+    border-radius: 1rem;
+    border: 1px solid var(--cinza-borda);
+    background: var(--corfundo);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    align-self: stretch;
+    padding: 1.5rem 1.5rem 1.75rem 1.5rem;
+}
+
+.informacoes {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    align-self: stretch;
+    color: var(--cinza-primario);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+}
+
+.vaga-area, .titulo-vaga {
+    align-self: stretch;
+    color: var(--preto);
+    font-weight: 500;
+}
+
+.vaga-area {
+    font-size: 1.25rem;
+    line-height: 1.87rem;
+}
+
+.titulo-vaga {
+    font-size: 1.1rem;
+    line-height: 1.75rem;
+}
+
+
+
