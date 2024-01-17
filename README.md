@@ -45,16 +45,18 @@ Neste projeto foi possível treinar conceitos como:
 ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/3a246266-8134-4858-a485-76a4e303f2b8)
 
 
-<h3>✅✅ Day 3 - Métricas ---
+<h3>✅✅✅ Day 3 - Métricas ---
 <p>Seção de métricas e resultados da  página. Ela é uma seção muito comum na maioria das landing pages que vemos por aí hoje em dia. Foram incluidas 4 métricas diferentes, com um título, um subtítulo e um texto.
 
 ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/7709f3e7-d164-43e5-8e82-27934c06edd3)
 
 
-<h3>✅✅ Day 4 - Seção com imagem ---
+<h3>✅✅✅✅ Day 4 - Seção com imagem ---
+  
 ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/f373479d-c475-4713-b7da-8a50241e9fe0)
 
-<h3>🚧🚧 Day 5 -  Seção de vagas ---
+<h3> ✅✅✅✅✅ Day 5 -  Seção de vagas ---
 <p>desenvolver a parte talvez mais importante do projeto inteiro, a seção de vagas!
+  
 ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/71ed1528-4513-4919-a917-83f6f230a745)
 
