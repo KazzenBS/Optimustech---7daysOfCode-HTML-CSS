@@ -4,6 +4,7 @@
 @import url(styles/metricas.css);
 @import url(styles/talentos.css);
 @import url(styles/vagas.css);
+@import url(styles/depoimentos.css);
 
 
 :root {
@@ -12,6 +13,7 @@
     --preto: #101828;
     --vermelho: #8E2424;
     --fundo-card: rgba(204, 39, 39, 0.03);
+    --fundo-card2: rgba(195, 25, 25, 0.03);
     --cinza-primario: #667085;
     --cinza-secundario: #38434F;
     --cinza-titulo: #3A404E;
