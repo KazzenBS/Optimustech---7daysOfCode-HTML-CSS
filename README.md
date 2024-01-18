@@ -11,7 +11,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode - HTML e CSS (OptimusTech)**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL (LIVE)   | [---](https://kazzenbs.github.io/Optimustech---7daysOfCode-HTML-CSS/)
+| :rocket: URL (LIVE)   | https://kazzenbs.github.io/Optimustech---7daysOfCode-HTML-CSS
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 | 🕔 Status     | Concluido 🎉🎉🎉
 
