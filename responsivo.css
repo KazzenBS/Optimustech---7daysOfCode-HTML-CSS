@@ -1,0 +1,68 @@
+@media screen and (min-width: 1024px) {
+
+    header {
+        width: 98vw;
+    }
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    
+    /* MENU NAVEGAÇÃO */
+
+    header {
+        width: 100vw;
+    }
+
+    .paginas a{
+        display: none;
+    }
+
+    
+    .logo-empresa .logo-texto{
+        display: none;
+    }
+
+    
+    /* SOBRE NÓS */
+    .sobre {
+        padding: 3rem 0px 3rem
+    }
+    
+    .sobre h1 {
+        text-align: center;
+    }
+
+    .sobre p{
+        width: 80%;
+    }
+
+    /* METRICAS */
+    
+
+    .metricas ul {
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        width: 8rem;
+        font-size: 90%;
+    }
+
+    /* RODAPE */
+
+    .rodape {
+        padding: 2rem;
+    }
+
+    .rodape__form {
+        flex-direction: column;
+    }
+
+    .rodape_copyright {
+        padding: 1rem;
+        text-align: center;
+    }
+    
+    
+}

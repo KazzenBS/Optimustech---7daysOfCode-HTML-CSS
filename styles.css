@@ -6,6 +6,7 @@
 @import url(styles/vagas.css);
 @import url(styles/depoimentos.css);
 @import url(styles/rodape.css);
+@import url(responsivo.css);
 
 
 :root {
@@ -25,7 +26,6 @@
 
 header {
     display: flex;
-    width: 98vw;
     height: 4.5rem;
     justify-content: center;
     align-items: center;
