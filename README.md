@@ -11,7 +11,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode - HTML e CSS (OptimusTech)**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | ---
+| :rocket: URL (LIVE)   | [---](https://kazzenbs.github.io/Optimustech---7daysOfCode-HTML-CSS/)
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 | 🕔 Status     | Concluido 🎉🎉🎉
 
@@ -28,6 +28,7 @@ Neste projeto foi possível treinar conceitos como:
 - Flexbox CSS
 - Posicionamento de elementos
 - Variáveis CSS
+- Resposividade (adicionei por conta propria)
 
 <h3><a href="https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1&mode=dev">Figma completo do projeto</a>
 
