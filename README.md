@@ -11,9 +11,9 @@
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode - HTML e CSS (OptimusTech)**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS
+| :rocket: URL         | ---
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
-| 🕔 Status     | Em Desenvolvimento 🚧
+| 🕔 Status     | Concluido 🎉🎉🎉
 
 ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/cdf6aeef-ce59-4076-ba84-ce24f36c285f) ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/385912b5-4554-47fa-a52a-4be026e21c8b)
 
@@ -60,3 +60,10 @@ Neste projeto foi possível treinar conceitos como:
   
 ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/71ed1528-4513-4919-a917-83f6f230a745)
 
+<h3> ✅✅✅✅✅✅ Day 6 -  Seção de Depoimentos ---
+
+![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/24332612-61e1-44d8-a3fe-5a17243e7c89)
+
+<h3> ✅✅✅✅✅✅✅ Day 7 -  Rodape ---
+
+![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/2cb49e7c-3fe3-4638-b8ae-982a26858527)
